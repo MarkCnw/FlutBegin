@@ -1,5 +1,3 @@
 # FlutBegin
 This is my beginner project
 dawdddddddddddddddddddddddddddddddddddddddddd
-awdawdwdawdwawaddadaw
-awdawdawddwd
